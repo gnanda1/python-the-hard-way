@@ -2,8 +2,6 @@
 
 # declare variables.
 
-from lib2to3.pgen2.token import EQUAL
-
 
 people = 20
 cats = 30
