@@ -1,3 +1,5 @@
+# Parameters, unpacking variables.
+# Terminal command to run this program: python ex13.py first second thrid
 from sys import argv
 
 script, first, second, thrid = argv

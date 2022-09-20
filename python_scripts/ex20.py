@@ -3,7 +3,6 @@
 # import args 
 
 from sys import argv
-
 script, input_file = argv
 
 # Reading a file.

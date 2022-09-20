@@ -9,7 +9,7 @@ write(stuff) - Writes "stuff" to the file.
 seek(0) - Move the read/write location to the beginning of the file.
 
 """
-
+# To run the code from terminal: python3 ex16.py test16.txt
 from sys import argv
 
 script, filename = argv

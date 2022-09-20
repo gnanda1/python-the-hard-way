@@ -1,4 +1,8 @@
-# Reading Files
+# Reading Files 
+"""
+Opening a file refers to getting the file ready either for reading or for writing.
+This can be done using the open() function. 
+"""
 
 from sys import argv
 

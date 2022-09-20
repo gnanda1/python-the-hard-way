@@ -1,5 +1,5 @@
 # a good first program.
-
+# print function will output something to the user.
 print("Hello World!")
 print("Hello Again")
 print("I like typing this.")
