@@ -1,4 +1,4 @@
-# a good first program.
+# A Good First Program.
 # print function will output something to the user.
 print("Hello World!")
 print("Hello Again")
